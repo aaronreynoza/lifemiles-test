@@ -8,7 +8,7 @@ app.get('/', async (req, res) => {
         const lamda = process.env.LAMBDA_ENDPOINT;
         if (lamda) {
             const response = await axios.get(process.env.LAMBDA_ENDPOINT);
-            res..status(200).send(response.data);
+            res.status(200).send(response.data);
         } else {
             res.status(200).send({status: "ok", message: "Lambda ENV variable not set!"});
         }
