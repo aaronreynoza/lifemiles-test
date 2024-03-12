@@ -2,17 +2,4 @@
 
 | CustID | Name |
 |--------|------|
-| 13 | Customer13 |
-| 49 | Customer49 |
-| 62 | Customer62 |
-| 168 | Customer168 |
-| 444 | Customer444 |
-| 485 | Customer485 |
-| 614 | Customer614 |
-| 747 | Customer747 |
-| 865 | Customer865 |
-| 867 | Customer867 |
-| 893 | Customer893 |
-| 910 | Customer910 |
-| 976 | Customer976 |
-| 1021 | Martha Rivera |
+| 936 | Customer936 |
