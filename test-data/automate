@@ -1,7 +1,10 @@
 #!/bin/bash
 
 # Navigate to the app directory
-cd ~/app/
+cd ~/lifemiles-app/test-data
+
+# install deps
+npm i
 
 # Start the application
 npm start
